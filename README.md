@@ -1,6 +1,6 @@
 # Hi everyone! I'm Nigel!
 
-Welcome to my github profile!
+Welcome to my Github profile!
 
 ## About Me
 
