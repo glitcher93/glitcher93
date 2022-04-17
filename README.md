@@ -1,4 +1,4 @@
-### Hi everyone! I'm Nigel!
+# Hi everyone! I'm Nigel!
 
 Welcome to my github profile!
 
@@ -13,3 +13,8 @@ I'm a veteran Line Cook turned into a full-stack Web Developer! I spent 12 years
 - <strong>Frameowrks and Tools: </strong> React, Redux, React Query, Vite, Next.js, BEM (CSS), Express, Jest, Knex, MaterialUI, git, GitHub, npm
 - <strong>Platforms/Operating Systems: </strong> Windows, OSX, Heroku, Netlify
 - <strong>Databases: </strong> MySQL
+
+## Interests
+
+- Music: I've been a guitarist, singer, and drummer for the past 15 years. I'm a huge record collector, and love going to concerts
+- Video Games: When I get time, I love playing RPGs like Persona, Kingdom Hearts, and Final Fantasy
