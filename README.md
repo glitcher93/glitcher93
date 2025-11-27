@@ -9,10 +9,10 @@ I'm a veteran Line Cook turned into a full-stack Web Developer! I spent 12 years
 ## Skills
 
 - Front-End Web Development, Back-End Web Development, Strong and effective communication skills, Public speaking, Adaptability, Training / Development, Team Leadership, Project Management (Agile Development), Collaboration, Paired Programming
-- <strong>Programming Languages: </strong> HTML5, CSS3, SASS, JavaScript (ES6, async/await), TypeScript, Node.js
-- <strong>Frameowrks and Tools: </strong> React, Redux, React Query, Vite, Next.js, BEM (CSS), Express, Jest, Knex, MaterialUI, git, GitHub, npm
+- <strong>Programming Languages: </strong> HTML5, CSS3, SASS, JavaScript (ES6, async/await), TypeScript
+- <strong>Frameowrks and Tools: </strong> React, Redux, React Query, Vite, Next.js, BEM (CSS), Express, Jest, Knex, MaterialUI, git, GitHub, npm, Styled Components, Node.js
 - <strong>Platforms/Operating Systems: </strong> Windows, OSX, Heroku, Netlify
-- <strong>Databases: </strong> MySQL
+- <strong>Databases: </strong> MySQL, MongoDB, GraphQL, PostgreSQL
 
 ## Interests
 
